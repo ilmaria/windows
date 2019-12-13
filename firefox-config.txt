@@ -1,0 +1,4 @@
+layout.css.devPixelsPerPx	1.125
+general.smoothScroll.lines.durationMaxMS	100	
+general.smoothScroll.lines.durationMinMS	100
+toolkit.scrollbox.verticalScrollDistance	5
